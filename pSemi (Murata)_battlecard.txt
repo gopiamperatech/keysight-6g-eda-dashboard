@@ -1,0 +1,7 @@
+Company: pSemi (Murata)
+Location: San Diego, CA
+EDA Fit: Front-end modules, RFIC design
+Prospect Type: RF Component OEM
+Recent Job Posting: 2025-07-18
+Contact: Mei-Ling Chen (mchen@psemi.com)
+Insight: Expanding in mmWave FEM segment

@@ -1,0 +1,7 @@
+Company: NVIDIA
+Location: Santa Clara, CA
+EDA Fit: 6G AI-accelerated simulation, SoC design
+Prospect Type: AI/Chip
+Recent Job Posting: 2025-07-24
+Contact: Amy Tran (atran@nvidia.com)
+Insight: Openings in EM and mmWave team

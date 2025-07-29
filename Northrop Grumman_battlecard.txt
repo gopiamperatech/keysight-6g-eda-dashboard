@@ -1,0 +1,7 @@
+Company: Northrop Grumman
+Location: Redondo Beach, CA
+EDA Fit: mmWave radar/antenna design, EM sim
+Prospect Type: Aerospace/Defense
+Recent Job Posting: 2025-07-21
+Contact: Tom Harris (tharris@ngc.com)
+Insight: RF chain redesign project started

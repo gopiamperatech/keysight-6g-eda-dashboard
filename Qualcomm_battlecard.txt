@@ -1,0 +1,7 @@
+Company: Qualcomm
+Location: San Diego, CA
+EDA Fit: 6G, mmWave, RF front-end, antenna design
+Prospect Type: Tier-1 Chipmaker
+Recent Job Posting: 2025-07-28
+Contact: Rajeev Mehta (rmehta@qualcomm.com)
+Insight: Hiring multiple RF engineers for 6G stack

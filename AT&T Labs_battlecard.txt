@@ -1,0 +1,7 @@
+Company: AT&T Labs
+Location: Dallas, TX
+EDA Fit: Network modeling, propagation simulation
+Prospect Type: Telco Operator
+Recent Job Posting: 2025-07-22
+Contact: Karan Desai (kdesai@att.com)
+Insight: Spectrum modeling team under hiring

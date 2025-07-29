@@ -1,0 +1,7 @@
+Company: Raytheon
+Location: Tucson, AZ
+EDA Fit: RF simulation, high-frequency design
+Prospect Type: Aerospace/Defense
+Recent Job Posting: 2025-07-21
+Contact: Ravi Subramanian (rsubramanian@raytheon.com)
+Insight: Joint DARPA project recently won

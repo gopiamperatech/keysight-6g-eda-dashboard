@@ -1,0 +1,7 @@
+Company: Intel Labs
+Location: Hillsboro, OR
+EDA Fit: High-speed SerDes, antenna co-design
+Prospect Type: Chipmaker
+Recent Job Posting: 2025-07-24
+Contact: Jordan Lee (jlee@intel.com)
+Insight: Growing antenna test initiative

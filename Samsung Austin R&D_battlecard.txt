@@ -1,0 +1,7 @@
+Company: Samsung Austin R&D
+Location: Austin, TX
+EDA Fit: 6G baseband, EM modeling, PCB simulation
+Prospect Type: Device/Chip OEM
+Recent Job Posting: 2025-07-25
+Contact: David Kim (dkim@samsung.com)
+Insight: PCB signal team expanding staff

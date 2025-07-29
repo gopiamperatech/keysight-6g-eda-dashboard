@@ -1,0 +1,7 @@
+Company: Nokia Bell Labs
+Location: Murray Hill, NJ
+EDA Fit: 6G R&D, beamforming, RF simulation
+Prospect Type: Telecom OEM
+Recent Job Posting: 2025-07-27
+Contact: Linda Zhou (lzhou@nokia.com)
+Insight: 6G research lab expansion announced
