@@ -1,0 +1,7 @@
+Company: Apple
+Location: Cupertino, CA
+EDA Fit: 6G internal modem, mmWave, RFIC
+Prospect Type: Device OEM
+Recent Job Posting: 2025-07-25
+Contact: Priya Srinivasan (psrinivasan@apple.com)
+Insight: SoC team working on internal 6G chip

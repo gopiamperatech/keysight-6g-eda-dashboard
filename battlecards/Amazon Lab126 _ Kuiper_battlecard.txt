@@ -1,0 +1,7 @@
+Company: Amazon Lab126 / Kuiper
+Location: Sunnyvale, CA / Redmond, WA
+EDA Fit: 6G satellite broadband, RF test automation
+Prospect Type: Big Tech
+Recent Job Posting: 2025-07-19
+Contact: Rakesh Kapoor (rkapoor@amazon.com)
+Insight: Satellite broadband team hiring RF experts

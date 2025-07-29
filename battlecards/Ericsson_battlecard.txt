@@ -1,0 +1,7 @@
+Company: Ericsson
+Location: Plano, TX
+EDA Fit: 6G network simulation, antenna test
+Prospect Type: Telecom OEM
+Recent Job Posting: 2025-07-26
+Contact: Carlos Martinez (cmartinez@ericsson.com)
+Insight: New wireless R&D facility in Texas

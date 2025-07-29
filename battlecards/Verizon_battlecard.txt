@@ -1,0 +1,7 @@
+Company: Verizon
+Location: Basking Ridge, NJ
+EDA Fit: 6G network simulation, spectrum modeling
+Prospect Type: Telco Operator
+Recent Job Posting: 2025-07-23
+Contact: Taylor Morgan (tmorgan@verizon.com)
+Insight: Job postings in propagation team

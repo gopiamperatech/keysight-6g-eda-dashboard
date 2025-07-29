@@ -1,0 +1,7 @@
+Company: Analog Devices
+Location: Wilmington, MA
+EDA Fit: Beamforming ICs, RF signal chain
+Prospect Type: Semiconductor
+Recent Job Posting: 2025-07-18
+Contact: Rohan Gupta (rgupta@analog.com)
+Insight: High interest in beamforming integration
